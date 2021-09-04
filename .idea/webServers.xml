@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="728b5d75-ad22-4542-b074-b6f5e9477280" name="kind-istio">
+        <fileTransfer accessType="SFTP" host="172.81.183.116" port="22" sshConfigId="703bbca2-3891-438c-b4d3-d84865d654ef" sshConfig="kind-istio">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

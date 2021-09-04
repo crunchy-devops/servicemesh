@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="172.81.183.116" id="703bbca2-3891-438c-b4d3-d84865d654ef" port="22" customName="kind-istio" nameFormat="CUSTOM" username="ubuntu">
+        <option name="customName" value="kind-istio" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

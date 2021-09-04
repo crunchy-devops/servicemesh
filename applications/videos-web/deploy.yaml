@@ -33,7 +33,7 @@ metadata:
   labels:
     app: videos-web
 spec:
-  type: ClusterIP
+  type: LoadBalancer
   selector:
     app: videos-web
   ports:
